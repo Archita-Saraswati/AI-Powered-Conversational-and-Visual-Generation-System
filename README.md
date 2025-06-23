@@ -2,7 +2,7 @@
 
 This project is a React-based AI application that integrates the Gemini API for AI-driven chatbot interactions and OpenAI’s DALL·E for AI-powered image generation. It allows users to engage in intelligent conversations and generate AI-created images based on text prompts, offering an interactive and creative experience.
 
-🔗 **Live Website:** [https://prepai-dxw2zjahz-archita-saraswatis-projects.vercel.app](https://prepai-dxw2zjahz-archita-saraswatis-projects.vercel.app)
+🔗 **Live Website:** [devbot-alpha.vercel.app](https://devbot-alpha.vercel.app)
 
 
 
